@@ -75,7 +75,7 @@ To help users **understand password security**, learn about breaches, and **gene
 ## 🔗 Screenshots
 
 **Home Page:**  
-![Home Page](screenshots/homepage.png)
+![Home Page](C:\Users\prash\OneDrive\Desktop\password_strength_project\Screenshots)
 
 **Suggested Password Result:**  
 ![Suggested Password](screenshots/password_result.png)
